@@ -3,7 +3,7 @@
 A pixel-perfect, static frontend UI clone of the Spotify web player interface. This project was built from scratch to practice structural layouts, semantic markup, and advanced CSS styling techniques without relying on external frameworks.
 
 ## 🚀 Live Demo
-You can view the live project here: [👉 Click here to view Live Site](https://github.io)
+You can view the live project here: [👉 Click here to view Live Site](https://alina487.github.io/spotify-ui-clone/)
 
 ## 🛠️ Features Recreated
 * *Sidebar Navigation:* Home, Search, Library buttons, and custom playlist creation sections.
